@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Bahaa/AndroidStudioProjects/SmartHome_app/app/src/main/res/drawable/ic_all_lights.xml" value="0.1725" />
+        <entry key="..\:/Users/Bahaa/AndroidStudioProjects/SmartHome_app/app/src/main/res/drawable/ic_ellipse.xml" value="0.1725" />
+        <entry key="..\:/Users/Bahaa/AndroidStudioProjects/SmartHome_app/app/src/main/res/drawable/ic_ellipse_undefined.xml" value="0.1725" />
+        <entry key="..\:/Users/Bahaa/AndroidStudioProjects/SmartHome_app/app/src/main/res/drawable/ic_light_bulb_on.xml" value="0.1725" />
+        <entry key="..\:/Users/Bahaa/AndroidStudioProjects/SmartHome_app/app/src/main/res/drawable/ic_light_timer_off.xml" value="0.1725" />
+        <entry key="..\:/Users/Bahaa/AndroidStudioProjects/SmartHome_app/app/src/main/res/drawable/ic_light_timer_on.xml" value="0.1725" />
+        <entry key="..\:/Users/Bahaa/AndroidStudioProjects/SmartHome_app/app/src/main/res/drawable/ic_plus.xml" value="0.1725" />
+        <entry key="..\:/Users/Bahaa/AndroidStudioProjects/SmartHome_app/app/src/main/res/drawable/ic_splashlogo.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
